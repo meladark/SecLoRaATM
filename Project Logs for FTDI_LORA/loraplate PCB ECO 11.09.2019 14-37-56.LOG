@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=C5 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C6 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C7 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C8 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C9 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C10 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C12 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C13 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C14 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C15 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C16 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C11 Old Footprint=C1206 New Footprint=CAPMP3216X16N-A
+Change Component Footprint: Designator=Z1 Old Footprint=INDC1608L New Footprint=INDC1608X08N_BLM18AG
+Change Component Footprint: Designator=DD1 Old Footprint=SOT-23-OT6_N New Footprint=SOT95P280X145-6N
+Change Component Library : Designator=C5 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C6 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C7 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C8 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C9 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C10 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C11 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C12 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C13 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C14 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C15 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C16 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C17 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=DD1 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=Z1 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=Z2 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=Z3 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib

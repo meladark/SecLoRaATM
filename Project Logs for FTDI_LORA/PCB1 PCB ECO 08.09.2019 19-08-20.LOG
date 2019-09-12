@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=DD2 Old Footprint=LQFP-48_L New Footprint=LQFP-48_L
+Change Component Footprint: Designator=DD1 Old Footprint=SOT-23-OT6_N New Footprint=SOT-23-OT6_N
+Added Component: Designator=XS1(TECO-1734035-2-5_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UX60S.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UX60S.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UX60SC-MB-5S8(80)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount,Horizontal,Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.8, 10=0.701, 25=0.66, 50=0.6326, 100=0.605, 250=0.55, 500=0.495 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H125762CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=XS1-1
+Added Pin To Net: NetName=NetR2_2 Pin=XS1-2
+Added Pin To Net: NetName=NetR3_2 Pin=XS1-3
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Pin To Net: NetName=NetC2_2 Pin=XS1-6
+Change Class Name : Old Net Name=BLE Reader New Net Name=LoraFtdi
+Added Member To Class: ClassName=LoraFtdi Member=Component XS1 UX60SC-MB-5S8(80)
+Added Room: Name=LoraFtdi

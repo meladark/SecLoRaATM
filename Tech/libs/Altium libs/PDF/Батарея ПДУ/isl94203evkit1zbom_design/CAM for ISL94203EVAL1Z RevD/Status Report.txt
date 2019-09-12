@@ -1,0 +1,34 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for ISL94203EVAL1Z RevD.cam'
+at 15:46:58 on 16-Apr-2014
+
+
+'Pick Place Output 1'
+'Pick Place for ISL94203EVAL1Z RevD.txt' generated
+
+'NC Drill Output 1'
+'ISL94203EVAL1Z RevD.TXT' generated
+'ISL94203EVAL1Z RevD.DRL' generated
+'ISL94203EVAL1Z RevD.DRR' generated
+
+'Gerber Output 1'
+'ISL94203EVAL1Z RevD.GTL' generated
+'ISL94203EVAL1Z RevD.G1' generated
+'ISL94203EVAL1Z RevD.G2' generated
+'ISL94203EVAL1Z RevD.GBL' generated
+'ISL94203EVAL1Z RevD.GTO' generated
+'ISL94203EVAL1Z RevD.GBO' generated
+'ISL94203EVAL1Z RevD.GTP' generated
+'ISL94203EVAL1Z RevD.GBP' generated
+'ISL94203EVAL1Z RevD.GTS' generated
+'ISL94203EVAL1Z RevD.GBS' generated
+'ISL94203EVAL1Z RevD.GKO' generated
+'ISL94203EVAL1Z RevD.GM4' generated
+'ISL94203EVAL1Z RevD.GPT' generated
+'ISL94203EVAL1Z RevD.GPB' generated
+'ISL94203EVAL1Z RevD.GD1' generated
+'ISL94203EVAL1Z RevD.GG1' generated
+'ISL94203EVAL1Z RevD.REP' generated
+
+
+Total number of generated files = 21

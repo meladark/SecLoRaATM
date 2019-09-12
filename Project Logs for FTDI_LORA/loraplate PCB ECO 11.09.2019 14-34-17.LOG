@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VREG Pin=DD3-3
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603] New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C4 Old Footprint=C1206 New Footprint=CAPMP3216X16N-A
+Change Component Footprint: Designator=R2 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R6 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R7 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R9 Old Footprint=J1-0603 New Footprint=RESC1608X05N
+Change Component Footprint: Designator=DD2 Old Footprint=LQFP-48_L New Footprint=TSQFP50P900X900X160-48N
+Change Component Footprint: Designator=DA1 Old Footprint=STMicroelectronics_USBLC6-2SC6_0 New Footprint=SOT95P280X145-6N
+Change Component Library : Designator=C2 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C3 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=C4 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change Component Library : Designator=DA1 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Change component parameters: Designator = "R8"; Footprint = "RESC1608X05N"; UniqueID = "\QJLIMIBE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PartNo"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "РКД Наименование"; Value = "RC1608M - 100 Ohm ±5%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCD Pin=DD3-3
+Change Net Name : Old Net Name=NetDD2_13 New Net Name=SK
+Change Net Name : Old Net Name=NetDD2_14 New Net Name=DO
+Change Net Name : Old Net Name=NetDD2_15 New Net Name=DI
+Added Member To Class: ClassName=LoraFtdi Member=Component Z1 BLM18AG601SN1D
+Added Room: Name=LoraFtdi

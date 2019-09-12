@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27022013-123623";"";
+"REFERENCE";"3224W-1-103E";"";
+"TraceParts.PartTitle";"3224W SMT top adj cermet trimmer,10K 4mm";"";
+"TraceParts.InstanceId";"10-27022013-123623CE9Q8RC29CFUTUP2CBXILGZO5";"";
+"DESIGN";"3224W SMT top adj cermet trimmer,10K 4mm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:/F_BOURNS/10-27022013-123623";"";

@@ -1,0 +1,36 @@
+.colorme {color:#800000;}
+.nav-bar > li:hover, .nav-bar > li a:hover  { color: #800000;}
+.nav-bar > li.active > a { }
+ul.flyout li a:hover, .nav-bar li ul li a:hover {color:#800000;}
+.flyout {border-top:2px solid #800000;}
+.sectiontitle {border-left: 4px solid #800000;}
+::-moz-selection{background:#800000;color:#888;}
+::selection{background:#800000;color:#fff;}
+.ca-menu li:hover .ca-main {color: #800000;}
+.topborder { border-top:4px solid #800000;}
+.readmore {background:#800000;}
+ #subheader {background: #800000;border-top: 0px solid #800000; color: #eee; background-image: url("../../img/2 9.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; -ms-behavior: url(/backgroundsize.min.htc);}
+ #subheaderhomepage {background: #800000;border-top: 0px solid #800000; color: #eee; background-image: url("../../img/1 2.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; -ms-behavior: url(/backgroundsize.min.htc);}
+ #subheader a {color: #eee;}
+ #subheader a:hover {color: #fff;}
+ .readmore {background:#800000;}
+ #testimonials blockquote cite {color:#800000;}
+ .tags {background:#333;}
+ ul.pagination li.current a {background: #800000;}
+.saymore {color:#800000;}
+.submit {background:#800000;} 
+dl.tabs dd.active { border-bottom: 3px solid #800000;}
+ul.accordion > li.active {border-top: 3px solid #800000;}
+div.alert-box.default { background-color: #800000;}
+.slide {	margin: 0;	padding: 0;	border-top: solid 4px #800000;}
+.btn-slide {	background:#800000 url(../../images/plus.png) no-repeat;}
+.btn-slide.active { background: #800000 url(../../images/minus.png) no-repeat;}
+#footer {border-top:#800000 4px solid;}
+.back-top a:hover{background-color: #800000;}
+.sf-shadow ul {border-top:2px solid #800000;}
+.panel {border-left:4px solid #800000;}
+.colorbackground {background:#800000;}
+a.projectdetail { background: #800000;opacity:0.8;}
+a.projectdetail:hover { background: #800000;opacity:1.0;}
+#testimonials {border-left: solid 6px #800000;}
+.ei-title h2{background:#800000;}
