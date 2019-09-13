@@ -1,0 +1,33 @@
+Added Component: Designator=XS1(Molex_0480372200_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/6bade1e906f93a88/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/480372200_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Maximum per Contact"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN PLUG USB A 4POS SMD R/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "WM3983CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/6bade1e906f93a88/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-48037-2200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_USB_12MM0_18MM75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0480372200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.972849437621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM3983CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "538-48037-2200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-20°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Maximum"; Value = "150V AC (RMS)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=XS1-1
+Added Pin To Net: NetName=NetR2_2 Pin=XS1-2
+Added Pin To Net: NetName=NetR3_2 Pin=XS1-3
+Added Pin To Net: NetName=GND Pin=XS1-4
+Added Pin To Net: NetName=NetC2_2 Pin=XS1-6
+Added Member To Class: ClassName=LoraFtdi Member=Component XS1 Conn_Molex_0480372200_eec
+Added Room: Name=LoraFtdi

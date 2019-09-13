@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=XS1 Old Footprint=TECO-1734035-2-5_V New Footprint=UX60SC-MB-5S8(80)
+Change Component Library : Designator=XS1 Old Library=RPSLib.IntLib New Library=RPSLib.SchLib
+Added Member To Class: ClassName=LoraFtdi Member=Component C10 *
+Added Room: Name=LoraFtdi
