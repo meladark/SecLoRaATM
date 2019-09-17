@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UTBPYFYG
+DocumentUniqueId=YDHBHIYQ
 
 [Document9]
 DocumentPath=Tech\libs\strange\3.3 to 5\parts\Microchip_MCP1700T_3302E_TT_0.PcbLib
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KYHIWERA
+DocumentUniqueId=STTQKNVX
 
 [Document10]
 DocumentPath=Tech\libs\strange\3.3 to 5\parts\Microchip_MCP1700T_3302E_TT.SchLib
@@ -222,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HGJEJQOD
+DocumentUniqueId=QOSLLROH
 
 [Document12]
 DocumentPath=Tech\libs\strange\USB plug\parts\Conn_Molex_0480372200_eec.SchLib
@@ -293,40 +293,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UXUMHRPC
 
 [Document16]
-DocumentPath=loraplate.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YXWRJJFV
-
-[Document17]
-DocumentPath=LoraFtdi.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WASWBKDD
-
-[Document18]
 DocumentPath=Tech\libs\RPSLib\RPSLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWGEFQYB
 
-[Document19]
+[Document17]
 DocumentPath=RA-02.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCDNRXJW
 
-[Document20]
+[Document18]
 DocumentPath=LoRaSX1278.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXOKNUHT
 
-[Document21]
+[Document19]
 DocumentPath=LoraPic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
