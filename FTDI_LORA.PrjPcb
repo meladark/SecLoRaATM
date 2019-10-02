@@ -38,6 +38,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Tech\libs\strange\LQFP100\Imported QFP50P1600X1600X170-100N.lia\QFP50P1600X1600X170-100N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GUPBVJEC
+
+[Document2]
+DocumentPath=Tech\libs\strange\LQFP32\Imported QFP80P900X900X160-32N.lia\QFP80P900X900X160-32N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VSTVJPFY
+
+[Document3]
 DocumentPath=Tech\libs\strange\NLAS4599DFT2G\parts\On_Semiconductor_NLAS4599DFT2G_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -52,9 +86,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JJYEFBWU
+DocumentUniqueId=TBCPXJUX
 
-[Document2]
+[Document4]
 DocumentPath=Tech\libs\strange\PIC24FJ128GB202_ISO\parts\IC_Microchip_PIC24FJ128GB202-I-SO_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXLXQUCX
 
-[Document3]
+[Document5]
 DocumentPath=Tech\libs\strange\NLAS4599DFT2G\parts\On_Semiconductor_NLAS4599DFT2G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNROXFLG
 
-[Document4]
+[Document6]
 DocumentPath=Tech\libs\strange\PIC24FJ128GB202_ISO\parts\IC_Microchip_PIC24FJ128GB202-I-SO_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEKEHPQX
 
-[Document5]
+[Document7]
 DocumentPath=Tech\libs\strange\0805\parts\Cap_Murata_GRM21BR71C105KA01L_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBFUTIFG
 
-[Document6]
+[Document8]
 DocumentPath=Tech\libs\strange\0805\parts\Cap_Murata_GRM21BR71C105KA01L_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VAFIBIWQ
 
-[Document7]
+[Document9]
 DocumentPath=Tech\libs\strange\0805\parts\Cap_Murata_GRM21BR71C105KA01L_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJTPSNWI
 
-[Document8]
+[Document10]
 DocumentPath=Tech\libs\strange\0805\parts\Cap_Murata_GRM21BR71C105KA01L_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHBEFWNE
 
-[Document9]
+[Document11]
 DocumentPath=Tech\libs\strange\0805\parts\Cap_Murata_GRM21BR71C105KA01L_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTOTMNDI
 
-[Document10]
+[Document12]
 DocumentPath=Tech\libs\strange\3.3 to 5\parts\Microchip_MCP1700T_3302E_TT_1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDHBHIYQ
 
-[Document11]
+[Document13]
 DocumentPath=Tech\libs\strange\3.3 to 5\parts\Microchip_MCP1700T_3302E_TT_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STTQKNVX
 
-[Document12]
+[Document14]
 DocumentPath=Tech\libs\strange\3.3 to 5\parts\Microchip_MCP1700T_3302E_TT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFPRHRMD
 
-[Document13]
+[Document15]
 DocumentPath=Tech\libs\strange\3.3 to 5\parts\Microchip_MCP1700T_3302E_TT_2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOSLLROH
 
-[Document14]
+[Document16]
 DocumentPath=Tech\libs\strange\USB plug\parts\Conn_Molex_0480372200_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTTGLCUN
 
-[Document15]
+[Document17]
 DocumentPath=Tech\libs\strange\USB plug\parts\Conn_Molex_0480372200_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJTGUPMJ
 
-[Document16]
+[Document18]
 DocumentPath=Tech\libs\RPSLib\Jumpers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGQBMCYO
 
-[Document17]
+[Document19]
 DocumentPath=Tech\libs\RPSLib\RPSLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXUMHRPC
 
-[Document18]
+[Document20]
 DocumentPath=Tech\libs\RPSLib\RPSLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWGEFQYB
 
-[Document19]
+[Document21]
 DocumentPath=RA-02.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCDNRXJW
 
-[Document20]
+[Document22]
 DocumentPath=LoRaSX1278.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXOKNUHT
 
-[Document21]
+[Document23]
 DocumentPath=LoraPic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWBVXFRN
 
-[Document22]
+[Document24]
 DocumentPath=LoRaPIC1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBDWSLVD
 
-[Document23]
+[Document25]
 DocumentPath=Database_Links1.DbLink
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document26]
 DocumentPath=LoraPic2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,6 +478,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPOBWSQB
+
+[Document27]
+DocumentPath=LoraSTM32.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JSKOZHXC
 
 [Configuration1]
 Name=Sources
@@ -564,7 +615,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet M2727nf MFP
+TargetPrinter=HP Deskjet 2520 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
