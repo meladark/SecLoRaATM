@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : STM32L073CZT6.LibPkg
+
+Section : E:\SecLoRaATM\Tech\libs\strange\STM32L073CZT6\STM32L073CZT6.lia
+    Section : PCB Library - STM32L073CZT6.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token STM32L073CZT6 On Line 171
+            Warning - 1 : Skipping Token attachedSymbol On Line 678
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - STM32L073CZT6.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token layerContents On Line 151
+            Warning - 1 : Skipping Token layerContents On Line 160
+        EndSection
+
+        Section : Generating SCH Library - STM32L073CZT6.SchLib
+        EndSection
+    EndSection
+EndSection

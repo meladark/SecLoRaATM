@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : LD1117S33CTR.LibPkg
+
+Section : E:\SecLoRaATM\Tech\libs\strange\LD1117S33CTR\LD1117S33CTR.lia
+    Section : PCB Library - LD1117S33CTR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 107
+            Warning - 1 : Skipping Token isVisible On Line 108
+            Warning - 1 : Skipping Token isVisible On Line 109
+            Warning - 1 : Skipping Token isVisible On Line 110
+            Warning - 1 : Skipping Token LD1117S33CTR On Line 219
+            Warning - 1 : Skipping Token attachedSymbol On Line 286
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LD1117S33CTR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 165
+        EndSection
+
+        Section : Generating SCH Library - LD1117S33CTR.SchLib
+        EndSection
+    EndSection
+EndSection
