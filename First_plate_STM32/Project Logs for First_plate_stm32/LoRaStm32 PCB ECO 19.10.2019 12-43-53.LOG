@@ -1,0 +1,11 @@
+Change Component Description : Designator=DD1 Old Description=ARM® Cortex®-M0+ STM32 L0 Microcontroller IC 32-Bit 32MHz 192KB _192K x 8_ FLASH 48-LQFP New Description=
+ARM® Cortex®-M0+ STM32 L0 Microcontroller IC 32-Bit 32MHz 192KB _192K x 8_ FLASH 48-LQFP
+
+Added Pin To Net: NetName=NetDD1_21 Pin=DD1-21
+Added Pin To Net: NetName=NetDD1_21 Pin=DD2-8
+Added Net: Name=NetDD1_21
+Added Pin To Net: NetName=NetDD1_22 Pin=DD1-22
+Added Pin To Net: NetName=NetDD1_22 Pin=DD2-10
+Added Net: Name=NetDD1_22
+Added Member To Class: ClassName=LoraSTM32 Member=Component DD1 STM32L073CZT6
+Added Room: Name=LoraSTM32
