@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VCCD Pin=DD3-3
+Added Component: Designator=C18(Murata_GRM121_IPC_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "GRM21BR71C105KA01L"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "РКД Наименование"; Value = "CC1608M - NP0 - 16 V - 10 nF ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКЕ"; Value = "X7R"; VariantName = "[No Variations]"
+Added Component: Designator=C19(Murata_GRM121_IPC_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "GRM21BR71C105KA01L"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "РКД Наименование"; Value = "CC1608M - NP0 - 16 V - 10 nF ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКЕ"; Value = "X7R"; VariantName = "[No Variations]"
+Added Component: Designator=TS1(SOT-23-TT3_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Feb-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Lead Plastic Small Outline Transistor (TT) [SOT-23]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-TT3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MCP1700T-3302E/TT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=TS1-1
+Added Pin To Net: NetName=VBUS Pin=TS1-3
+Added Pin To Net: NetName=V3.3 Pin=C19-2
+Added Pin To Net: NetName=V3.3 Pin=DD3-3
+Added Pin To Net: NetName=V3.3 Pin=TS1-2
+Added Net: Name=V3.3
+Added Member To Class: ClassName=LoraFtdi Member=Component C10 *
+Added Member To Class: ClassName=LoraFtdi Member=Component C18 *
+Added Member To Class: ClassName=LoraFtdi Member=Component C19 *
+Added Member To Class: ClassName=LoraFtdi Member=Component TS1 MCP1700T-3302E/TT
+Added Member To Class: ClassName=LoraFtdi Member=Component XS1 Conn_Molex_0480372200_eec
+Added Room: Name=LoraFtdi

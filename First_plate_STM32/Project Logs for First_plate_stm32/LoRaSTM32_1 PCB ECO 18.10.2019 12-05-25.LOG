@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=TS?-1
+Removed Pin From Net: NetName=V3.3 Pin=TS?-2
+Removed Pin From Net: NetName=VBUS Pin=TS?-3
+Removed Member From Class: ClassName=LoraSTM32 Member=TS?
+Added Component: Designator=TS1(*SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ld1117s33ctr-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292513.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Feb-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Lead Plastic Small Outline Transistor (TT) [SOT-23]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LD1117S33CTR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TS1-1
+Added Pin To Net: NetName=V3.3 Pin=TS1-2
+Added Pin To Net: NetName=VBUS Pin=TS1-3
+Added Member To Class: ClassName=LoraSTM32 Member=Component C8 *
+Added Member To Class: ClassName=LoraSTM32 Member=Component TS1 LD1117S33CTR
+Added Room: Name=LoraSTM32

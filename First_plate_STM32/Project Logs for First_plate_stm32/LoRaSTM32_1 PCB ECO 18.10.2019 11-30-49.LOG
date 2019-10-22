@@ -1,0 +1,12 @@
+Added Component: Designator=R9(RESC1608X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "РКД Наименование"; Value = "RC1608M - 22 Ohm ±1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetC11_2 Pin=R9-2
+Added Member To Class: ClassName=LoraSTM32 Member=Component R9 R1608

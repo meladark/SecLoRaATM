@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C6 Old Footprint=Murata_GRM121_IPC_B New Footprint=CAPC1608X09L
+Change Component Footprint: Designator=C7 Old Footprint=Murata_GRM121_IPC_B New Footprint=CAPC1608X09L
+Added Room: Name=LoraSTM32

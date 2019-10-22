@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 1437566-4.LibPkg
+
+Section : E:\SecLoRaATM\Tech\libs\strange\FSMSM\1437566-4.lia
+    Section : PCB Library - 1437566-4.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1437566-4 On Line 157
+            Warning - 1 : Skipping Token attachedSymbol On Line 215
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1437566-4.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 134
+        EndSection
+
+        Section : Generating SCH Library - 1437566-4.SchLib
+        EndSection
+    EndSection
+EndSection

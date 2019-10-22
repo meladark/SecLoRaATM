@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : NX2520SA-24.000000MHZ-B8.LibPkg
+
+Section : E:\SecLoRaATM\Tech\libs\strange\crys_NDKSTD-CSW-4\NX2520SA-24.000000MHZ-B8.lia
+    Section : PCB Library - NX2520SA-24.000000MHZ-B8.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NX2520SA-24.000000MHZ-B8 On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 196
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - NX2520SA-24.000000MHZ-B8.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - NX2520SA-24.000000MHZ-B8.SchLib
+        EndSection
+    EndSection
+EndSection

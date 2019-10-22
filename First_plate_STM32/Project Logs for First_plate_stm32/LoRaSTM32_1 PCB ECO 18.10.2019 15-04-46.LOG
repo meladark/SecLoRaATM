@@ -1,0 +1,7 @@
+Change Component Description : Designator=DD1 Old Description=ARM® Cortex®-M0+ STM32 L0 Microcontroller IC 32-Bit 32MHz 192KB _192K x 8_ FLASH 48-LQFP New Description=
+ARM® Cortex®-M0+ STM32 L0 Microcontroller IC 32-Bit 32MHz 192KB _192K x 8_ FLASH 48-LQFP
+
+Change Net Name : Old Net Name=NetDD1_14 New Net Name=NSS
+Change Net Name : Old Net Name=NetDD1_15 New Net Name=SCK
+Change Net Name : Old Net Name=NetDD1_16 New Net Name=MISO
+Change Net Name : Old Net Name=NetDD1_17 New Net Name=MOSI
