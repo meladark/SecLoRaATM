@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RLFXQJQW
 
 [Document2]
-DocumentPath=..\Tech\libs\RPSLib\RPSLib.PcbLib
+DocumentPath=..\Tech\libs\RPSLib\Jumpers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UXUMHRPC
+DocumentUniqueId=CGQBMCYO
 
 [Document3]
-DocumentPath=..\Tech\libs\my_own_lib\LoRaSX1278.PcbLib
+DocumentPath=..\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,6 +89,40 @@ GenerateClassCluster=0
 DocumentUniqueId=GXOKNUHT
 
 [Document4]
+DocumentPath=..\Tech\libs\RPSLib\RPSLib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UXUMHRPC
+
+[Document5]
+DocumentPath=..\Tech\libs\my_own_lib\LoRaSX1278.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GXOKNUHT
+
+[Document6]
 DocumentPath=..\Tech\libs\my_own_lib\godnota.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,24 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQHSHVMN
 
-[Document5]
-DocumentPath=..\Tech\libs\KwantLib\Jumpers.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CGQBMCYO
-
-[Document6]
+[Document7]
 DocumentPath=..\Tech\libs\RPSLib\RPSLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWGEFQYB
 
-[Document7]
+[Document8]
 DocumentPath=LoraSTM32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSKOZHXC
 
-[Document8]
+[Document9]
 DocumentPath=..\Tech\libs\my_own_lib\godnota.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGSWLRRP
 
-[Document9]
+[Document10]
 DocumentPath=First_plate_stm32.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
