@@ -1,0 +1,66 @@
+Added Component: Designator=BQ?(*XTAL_NX2520SA-24.000000MHZ-B8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NDK America, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NX2520SA-24.000000MHZ-B8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 NDK America, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NX2520SA-24.000000MHZ-B8/NDK%20America%2C%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SB?(*SW_1437566-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/tyco-1437566-3-fsmsm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/071/DOC000071159.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Артикул"; Value = "1437566-3 (FSMSM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произвдитель"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=TS?(*SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ld1117s33ctr-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292513.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Feb-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Lead Plastic Small Outline Transistor (TT) [SOT-23]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LD1117S33CTR"; VariantName = "[No Variations]"
+Added Net: Name=D+
+Added Net: Name=D-
+Added Net: Name=DBG
+Added Net: Name=DIO3
+Added Net: Name=DIO4
+Added Net: Name=DIO5
+Added Pin To Net: NetName=GND Pin=BQ?-2
+Added Pin To Net: NetName=GND Pin=BQ?-4
+Added Pin To Net: NetName=GND Pin=SB?-1
+Added Pin To Net: NetName=GND Pin=TS?-1
+Added Net: Name=GND
+Added Net: Name=INT
+Added Net: Name=MCLR
+Added Pin To Net: NetName=NetBQ?_1 Pin=BQ?-1
+Added Net: Name=NetBQ?_1
+Added Pin To Net: NetName=NetBQ?_3 Pin=BQ?-3
+Added Net: Name=NetBQ?_3
+Added Net: Name=NetDD1_16
+Added Net: Name=NetDD1_17
+Added Net: Name=NetDD1_18
+Added Net: Name=NetDD1_24
+Added Net: Name=NetDD1_25
+Added Net: Name=NetDD1_26
+Added Net: Name=RESET_LoRa
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Net: Name=V3.3
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VDD_Plate Pin=TS?-3
+Added Net: Name=VDD_Plate
+Added Net: Name=VDD_prog
+Added Pin To Net: NetName=VDD Pin=TS?-2
+Added Net: Name=VDD
+Added Pin To Net: NetName=VPP Pin=SB?-2
+Added Net: Name=VPP
+Added Class: Name=LoraPic2
+Added Room: Name=LoraPic2

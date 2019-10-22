@@ -1,0 +1,17 @@
+Added Component: Designator=R3(RESC1608X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "РКД Наименование"; Value = "RC1608M - 100 Ohm ±5%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DBG Pin=R3-2
+Added Pin To Net: NetName=NetDD2_5 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_5 Pin=R3-1
+Added Net: Name=NetDD2_5
+Added Member To Class: ClassName=LoraPic2 Member=Component R3 100 ом до 470
+Added Room: Name=LoraPic2
