@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [First_plate_pic.PrjPcb]
+   Generated File[LoRaPIC1-RoundHoles-Plated.TXT]
+   Generated File[LoRaPIC1-RoundHoles-NonPlated.TXT]
+   Generated File[LoRaPIC1-SlotHoles-Plated.TXT]
+   Generated File[LoRaPIC1.LDP]
+   Generated File[LoRaPIC1.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 16:39:01 On 23.10.2019
