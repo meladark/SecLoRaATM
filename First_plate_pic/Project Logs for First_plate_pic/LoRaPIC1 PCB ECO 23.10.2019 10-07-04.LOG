@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C10 NewDesignator=C7
+Change Component Designator: OldDesignator=C12 NewDesignator=C2
+Change Component Designator: OldDesignator=C13 NewDesignator=C3
+Change Component Designator: OldDesignator=DD1 NewDesignator=DD2
+Change Component Designator: OldDesignator=DD2 NewDesignator=DD3
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=XS2 NewDesignator=XS4
+Change Component Description : Designator=SB1 Old Description=1437566-3 (FSMSM), Кнопка тактовая h=4.6 мм SMD SPST Switch Tactile
+Switch Tactile OFF (ON) SPST Rectangular Button Gull Wing 0.05A 24VDC SMD Loose New Description=1437566-3 (FSMSM), Кнопка тактовая h=4.6 мм SMD SPST Switch Tactile
+Switch Tactile OFF (ON) SPST Rectangular Button Gull Wing 0.05A 24VDC SMD Loose 
+Change Net Name : Old Net Name=NetDD1_7 New Net Name=NetDD2_7
+Change Net Name : Old Net Name=NetDD1_16 New Net Name=NetDD2_16
+Change Net Name : Old Net Name=NetDD1_17 New Net Name=NetDD2_17
+Change Net Name : Old Net Name=NetDD1_18 New Net Name=NetDD2_18
+Change Net Name : Old Net Name=NetDD1_24 New Net Name=NetDD2_24
+Change Net Name : Old Net Name=NetDD1_25 New Net Name=NetDD2_25
+Change Net Name : Old Net Name=NetDD1_26 New Net Name=NetDD2_26
+Added Pin To Net: NetName=DM Pin=R1-2
+Added Pin To Net: NetName=DM Pin=XS1-2
+Added Net: Name=DM
+Added Pin To Net: NetName=DP Pin=R2-2
+Added Pin To Net: NetName=DP Pin=XS1-3
+Added Net: Name=DP
+Added Member To Class: ClassName=LoraPic Member=Component C4 GRM188R71H104KA93D
+Added Member To Class: ClassName=LoraPic Member=Component XS4 DS1021-2x3S
