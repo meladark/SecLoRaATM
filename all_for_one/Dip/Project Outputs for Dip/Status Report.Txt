@@ -1,0 +1,25 @@
+Source PCB Design Dip.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Dip.PrjPcb]
+   Generated File[Dip.GTO]
+   Generated File[Dip.GTP]
+   Generated File[Dip.GTS]
+   Generated File[Dip.GTL]
+   Generated File[Dip.GBL]
+   Generated File[Dip.GBS]
+   Generated File[Dip.GBP]
+   Generated File[Dip.GBO]
+   Generated File[Dip.GM2]
+   Generated File[Dip.GD1]
+   Generated File[Dip.GG1]
+   Generated File[Dip.RUL]
+   Generated File[Dip.EXTREP]
+   Generated File[Dip.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 14:12:46 On 25.10.2019
