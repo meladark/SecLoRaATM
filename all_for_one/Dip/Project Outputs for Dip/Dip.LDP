@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: E:\SecLoRaATM\all_for_one\Dip\Dip.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=dip-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=dip-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=dip-roundholes-nonplated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=dip-slotholes-nonplated.txt|DrillLayers=gtl,gbl
