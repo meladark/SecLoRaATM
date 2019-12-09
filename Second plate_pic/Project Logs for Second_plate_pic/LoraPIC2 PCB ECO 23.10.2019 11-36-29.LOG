@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=BQ? NewDesignator=BQ1
+Change Component Description : Designator=SB? Old Description=1437566-3 (FSMSM), Кнопка тактовая h=4.6 мм SMD SPST Switch Tactile
+Switch Tactile OFF (ON) SPST Rectangular Button Gull Wing 0.05A 24VDC SMD Loose New Description=1437566-3 (FSMSM), Кнопка тактовая h=4.6 мм SMD SPST Switch Tactile
+Switch Tactile OFF (ON) SPST Rectangular Button Gull Wing 0.05A 24VDC SMD Loose 
+Change Net Name : Old Net Name=NetBQ?_1 New Net Name=NetBQ1_1
+Change Net Name : Old Net Name=NetBQ?_3 New Net Name=NetBQ1_3

@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=NetDD1_14 New Net Name=NSS
+Change Net Name : Old Net Name=NetDD1_15 New Net Name=SCK
+Change Net Name : Old Net Name=NetDD1_16 New Net Name=MISO
+Change Net Name : Old Net Name=NetDD1_17 New Net Name=MOSI
+Change Net Name : Old Net Name=NetDD1_30 New Net Name=SCL
+Change Net Name : Old Net Name=NetDD1_31 New Net Name=SDA
+Change Net Name : Old Net Name=NetDD1_32 New Net Name=DM
+Change Net Name : Old Net Name=NetDD1_33 New Net Name=DP
+Change Net Name : Old Net Name=NetDD1_37 New Net Name=SWCLK
+Change Net Name : Old Net Name=NetDD1_41 New Net Name=INT
+Change Net Name : Old Net Name=NetDD1_44 New Net Name=BOOT0
+Change Net Name : Old Net Name=NetR2_2 New Net Name=RESET
+Change Net Name : Old Net Name=NetR3_2 New Net Name=SWDIO

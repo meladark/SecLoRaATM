@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C10 Old Footprint=CAPC0603X02N New Footprint=CAPC1608X09L
+Change Component Comment : Designator=C10 Old Comment=CC0603 New Comment=*
+Change component parameters: Designator = "C10"; Footprint = "CAPC1608X09L"; UniqueID = "\TMQKFCLN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "GRM188R71H104K"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNo"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "РКД Наименование"; Value = "CC1608M - NP0 - 16 V - 10 nF ±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКЕ"; Value = "X7R"; VariantName = "[No Variations]"

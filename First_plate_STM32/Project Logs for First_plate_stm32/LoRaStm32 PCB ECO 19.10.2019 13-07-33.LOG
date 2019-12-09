@@ -1,0 +1,9 @@
+Change Component Description : Designator=DD1 Old Description=ARM® Cortex®-M0+ STM32 L0 Microcontroller IC 32-Bit 32MHz 192KB _192K x 8_ FLASH 48-LQFP New Description=
+ARM® Cortex®-M0+ STM32 L0 Microcontroller IC 32-Bit 32MHz 192KB _192K x 8_ FLASH 48-LQFP
+
+Added Pin To Net: NetName=NetDD1_43 Pin=DD1-43
+Added Pin To Net: NetName=NetDD1_43 Pin=DD2-4
+Added Net: Name=NetDD1_43
+Added Pin To Net: NetName=PA2 Pin=DD1-12
+Added Pin To Net: NetName=PA2 Pin=DD2-11
+Added Net: Name=PA2

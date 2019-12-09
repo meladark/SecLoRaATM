@@ -1,0 +1,17 @@
+Source PCB Design Dip.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Dip.PrjPcb]
+   Generated File[Dip-RoundHoles-Plated.TXT]
+   Generated File[Dip-RoundHoles-NonPlated.TXT]
+   Generated File[Dip-SlotHoles-Plated.TXT]
+   Generated File[Dip-SlotHoles-NonPlated.TXT]
+   Generated File[Dip.LDP]
+   Generated File[Dip.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 13:12:46 On 29.10.2019

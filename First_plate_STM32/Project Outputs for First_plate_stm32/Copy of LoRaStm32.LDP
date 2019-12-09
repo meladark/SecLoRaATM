@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\SecLoRaATM\First_plate_STM32\Copy of LoRaStm32.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=copy of lorastm32-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=copy of lorastm32-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=copy of lorastm32-roundholes-nonplated.txt|DrillLayers=gtl,gbl

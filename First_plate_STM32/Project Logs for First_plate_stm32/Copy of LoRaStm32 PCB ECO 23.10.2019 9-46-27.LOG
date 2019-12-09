@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=RESET Pin=XS1-2
+Removed Pin From Net: NetName=SWDIO Pin=XS1-3
+Removed Pin From Net: NetName=SWCLK Pin=XS1-4
+Removed Pin From Net: NetName=GND Pin=XS1-5
+Change Component Footprint: Designator=XS1 Old Footprint=DS1021-2x3S New Footprint=PBS-4
+Change Component Comment : Designator=XS1 Old Comment=DS1021-2X3S New Comment=PBS-4
+Change component parameters: Designator = "XS1"; Footprint = "PBS-4"; UniqueID = "\TLDKEEQM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=455493"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.chipdip.ru/product/pld-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/pld-6"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(*SW_1437566-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/tyco-1437566-3-fsmsm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/071/DOC000071159.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Артикул"; Value = "1437566-3 (FSMSM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произвдитель"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(PBS-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=455493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.chipdip.ru/product/pld-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/pld-6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=RESET Pin=SB1-2
+Added Pin To Net: NetName=RESET Pin=XS1-1
+Added Pin To Net: NetName=SWDIO Pin=XS1-2
+Added Pin To Net: NetName=SWCLK Pin=XS1-3
+Added Pin To Net: NetName=GND Pin=XS1-4
+Added Pin To Net: NetName=VBUS Pin=XS3-1
+Added Pin To Net: NetName=NetR7_2 Pin=XS3-2
+Added Pin To Net: NetName=NetR8_2 Pin=XS3-3
+Added Pin To Net: NetName=GND Pin=XS3-4
+Added Member To Class: ClassName=LoraSTM32 Member=Component SB1 1437566-3 (FSMSM)
+Added Member To Class: ClassName=LoraSTM32 Member=Component XS3 PBS-4
+Added Room: Name=LoraSTM32

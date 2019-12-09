@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=BQ? NewDesignator=BQ1
+Change Component Designator: OldDesignator=DD? NewDesignator=DD2
+Change Component Designator: OldDesignator=XS? NewDesignator=XS2
+Change Component Designator: OldDesignator=XS? NewDesignator=XS3
+Added Component: Designator=SB1(*SW_1437566-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/tyco-1437566-3-fsmsm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/071/DOC000071159.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Артикул"; Value = "1437566-3 (FSMSM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произвдитель"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(PBS-20)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=NetR2_2 Pin=SB1-2
+Added Pin To Net: NetName=NetDD1_41 Pin=XS1-6
+Added Pin To Net: NetName=NetDD1_30 Pin=XS1-7
+Added Pin To Net: NetName=NetDD1_31 Pin=XS1-8
+Added Pin To Net: NetName=VDD_plate Pin=XS1-9
+Added Pin To Net: NetName=GND Pin=XS1-10
+Change Net Name : Old Net Name=NetBQ?_1 New Net Name=NetBQ1_1
+Change Net Name : Old Net Name=NetBQ?_3 New Net Name=NetBQ1_3
+Added Pin To Net: NetName=NetDD1_32 Pin=DD1-32
+Added Pin To Net: NetName=NetDD1_32 Pin=XS1-18
+Added Net: Name=NetDD1_32
+Added Pin To Net: NetName=NetDD1_33 Pin=DD1-33
+Added Pin To Net: NetName=NetDD1_33 Pin=XS1-17
+Added Net: Name=NetDD1_33
+Added Member To Class: ClassName=LoraSTM32_2 Member=Component SB1 1437566-3 (FSMSM)
+Added Member To Class: ClassName=LoraSTM32_2 Member=Component XS1 PBS-20
+Added Member To Class: ClassName=LoraSTM32_2 Member=Component XS3 PBS-4

@@ -1,0 +1,12 @@
+Added Component: Designator=XS2(PBS-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=455493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.chipdip.ru/product/pld-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/pld-6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=XS2-1
+Added Pin To Net: NetName=DM Pin=XS2-2
+Added Pin To Net: NetName=DP Pin=XS2-3
+Added Pin To Net: NetName=GND Pin=XS2-4
+Added Member To Class: ClassName=LoraPic Member=Component XS2 PBS-4
+Added Room: Name=LoraPic

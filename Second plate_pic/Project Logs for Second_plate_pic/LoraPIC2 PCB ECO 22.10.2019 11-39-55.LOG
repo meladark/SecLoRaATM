@@ -1,0 +1,29 @@
+Added Component: Designator=XS1(PBS-20 - 13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/226/DOC000226931.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "buy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/catalog-show/pin-connectors-and-sockets?x.698=ZGQ&gq=PBS"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(PBS-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS4(DS1021-2x3S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/227/DOC000227157.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=227431"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_Plate Pin=XS1-11
+Added Pin To Net: NetName=GND Pin=XS1-12
+Added Pin To Net: NetName=INT Pin=XS3-6
+Added Pin To Net: NetName=SCL Pin=XS3-7
+Added Pin To Net: NetName=SDA Pin=XS3-8
+Added Pin To Net: NetName=VDD_Plate Pin=XS3-9
+Added Pin To Net: NetName=GND Pin=XS3-10
+Added Pin To Net: NetName=VPP Pin=XS4-1
+Added Pin To Net: NetName=VDD_prog Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-3
+Added Pin To Net: NetName=DBG Pin=XS4-4
+Added Pin To Net: NetName=INT Pin=XS4-5
+Added Member To Class: ClassName=LoraPic2 Member=Component XS1 PBS-20
+Added Member To Class: ClassName=LoraPic2 Member=Component XS3 PBS-20
+Added Member To Class: ClassName=LoraPic2 Member=Component XS4 DS1021-2x3S
